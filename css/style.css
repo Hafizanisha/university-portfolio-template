@@ -297,3 +297,40 @@ footer {
     color: #cbd5e1;
     margin-bottom: 8px;
 }
+/* Skills Section */
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+.skill-category {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.skill-category:hover {
+    transform: translateY(-5px);
+}
+
+.skill-category h3 {
+    color: #38bdf8;
+    margin-bottom: 18px;
+}
+
+.skill-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-list span {
+    padding: 8px 14px;
+    background: #0f172a;
+    border-radius: 20px;
+    color: #cbd5e1;
+    font-size: 0.9rem;
+}
