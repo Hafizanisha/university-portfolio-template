@@ -41,3 +41,42 @@ student-portfolio-template/
 │   └── resume.pdf
 │
 └── README.md
+## Getting Started
+
+### 1. Use This Template
+
+Click the **Use this template** button on GitHub to create a new repository based on this project.
+
+### 2. Customize Your Portfolio
+
+Update the following files and content:
+
+- Personal information in `index.html`
+- Website styling in `css/style.css`
+- Interactive behavior in `js/script.js`
+- Profile image in `images/`
+- Resume in `assets/`
+
+### 3. Preview Locally
+
+Open `index.html` in a web browser to preview the portfolio.
+
+### 4. Make It Your Own
+
+Replace the sample content with your:
+
+- Name
+- University
+- Department
+- Education
+- Skills
+- Projects
+- Achievements
+- Certifications
+- Activities
+- Interests
+- Contact information
+
+### 5. Deploy
+
+The completed portfolio can be deployed using GitHub Pages or another static website hosting service.
