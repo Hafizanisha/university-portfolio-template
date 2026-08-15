@@ -507,3 +507,26 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+/* Interests Section */
+
+.interests-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    max-width: 900px;
+}
+
+.interests-list span {
+    padding: 12px 20px;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 25px;
+    color: #cbd5e1;
+    transition: 0.3s;
+}
+
+.interests-list span:hover {
+    border-color: #38bdf8;
+    color: #38bdf8;
+    transform: translateY(-3px);
+}
